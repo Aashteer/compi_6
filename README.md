@@ -190,8 +190,9 @@ a + @b
 
 ![Примеры](screenshot/25.png)
 
-![Примеры](screenshot/16.png)
+![Примеры](screenshot/6lab.png)
 
+![Примеры](screenshot/PC_6.png)
 
 
 
