@@ -192,7 +192,7 @@ a + @b
 
 ![Примеры](screenshot/6lab.png)
 
-![Примеры](screenshot/PC_6.png)
+![Примеры](screenshot/PC_6lab.png)
 
 
 
